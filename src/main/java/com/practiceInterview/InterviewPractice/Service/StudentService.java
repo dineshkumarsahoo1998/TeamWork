@@ -13,8 +13,8 @@ public interface StudentService {
 
     Student delete(Long sid);
 
-
     Student updateStudent(Student student);
 
     List<Student> getByMarks(Double securedMark);
 }
+//changing service
